@@ -27,7 +27,7 @@ https://github.com/rxrw/daily_morning  (Has been disabled)
   
     7). city_location_dict: the latitude and longitude's dictionary of the city (e.g. {'北京': {'lat': 39.9042， 'lon': 116.4074}, '雄安': {'lat': 38.6, 'lon': 116}})
   
-    8). period: the owner's period date of host (e.g. 19).
+    8). period: the owner's period date of host (e.g. 19) (e.g. 02).
   
     9). start_date: the date that you both meet and together (e.g. 20xx-xx-xx). 
    
